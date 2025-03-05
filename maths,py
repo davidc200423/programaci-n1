@@ -1,0 +1,8 @@
+# ejemplo 1
+resultado = 2*(4*((7+4*((5*3)-9)))-3*(40-8))
+print("el resultado es :", resultado)
+
+# ejemplo 2
+resultado = (4+(2*(3+5)))+2
+print("el resultado es:",resultado)
+
